@@ -1,15 +1,14 @@
 # Site settings
+author: Anna (Raiet) Intraub
 title: From 0 to 1
 header-img: img/home-bg.png
 email: raietsaeed@gmail.com
-copyright_name: raiet13
+copyright_name: Anna (Raiet) Intraub
 description: > # this means to ignore newlines until "baseurl:"
   Learning to Code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  raiet13
-learn_profile: raiet13
-email_username: raietsaeed@gmail.com
 
 # Build settings
 markdown: kramdown
